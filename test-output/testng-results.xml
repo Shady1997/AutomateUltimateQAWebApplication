@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-10T01:36:25 EET" name="Default suite" finished-at="2022-01-10T01:36:40 EET" duration-ms="15337">
+    <groups>
+    </groups>
+    <test started-at="2022-01-10T01:36:25 EET" name="Default test" finished-at="2022-01-10T01:36:40 EET" duration-ms="15337">
+      <class name="start.Start">
+        <test-method is-config="true" signature="prepareClassProperties()[pri:0, instance:start.Start@1613674b]" started-at="2022-01-10T01:36:25 EET" name="prepareClassProperties" finished-at="2022-01-10T01:36:27 EET" duration-ms="2623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareClassProperties -->
+        <test-method signature="startApplication()[pri:0, instance:start.Start@1613674b]" started-at="2022-01-10T01:36:28 EET" name="startApplication" finished-at="2022-01-10T01:36:39 EET" duration-ms="11431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApplication -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:start.Start@1613674b]" started-at="2022-01-10T01:36:39 EET" name="closeApplication" finished-at="2022-01-10T01:36:40 EET" duration-ms="1232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- start.Start -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
